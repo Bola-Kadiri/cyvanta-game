@@ -106,7 +106,7 @@ const ProductDetail = () => {
             </h1>
 
             <div className="text-3xl font-bold text-primary text-glow mb-6">
-              ${product.price.toFixed(2)}
+              ₦{product.price.toFixed(2)}
             </div>
 
             <p className="text-muted-foreground mb-8 text-lg leading-relaxed">
@@ -128,14 +128,14 @@ const ProductDetail = () => {
 
             {/* Actions */}
             <div className="flex flex-col sm:flex-row gap-4 mb-8">
-              <Button 
+              {/* <Button 
                 className="btn-gaming flex-1"
                 onClick={handleAddToCart}
                 disabled={!product.inStock}
               >
                 <ShoppingCart className="h-4 w-4 mr-2" />
                 {product.inStock ? "Add to Cart" : "Out of Stock"}
-              </Button>
+              </Button> */}
               <Button variant="outline" className="btn-gaming-outline">
                 <Heart className="h-4 w-4 mr-2" />
                 Save
