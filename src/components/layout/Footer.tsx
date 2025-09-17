@@ -35,7 +35,7 @@ const Footer = () => {
                 <Gamepad2 className="h-6 w-6 text-primary-foreground" />
               </div>
               <span className="text-xl font-bold text-glow" style={{ fontFamily: 'Orbitron, monospace' }}>
-                GameZone Elite
+                GameGear
               </span>
             </div>
             <p className="text-muted-foreground text-sm">
