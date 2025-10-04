@@ -35,7 +35,7 @@ const About = () => {
             className="text-4xl md:text-6xl font-bold mb-6 text-glow"
             style={{ fontFamily: 'Orbitron, monospace' }}
           >
-            About GameZone Elite
+            About Cyvantatech
           </h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             We're passionate gamers on a mission to provide the ultimate gaming experience 

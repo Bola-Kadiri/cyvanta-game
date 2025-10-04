@@ -35,7 +35,7 @@ const Footer = () => {
                 <Gamepad2 className="h-6 w-6 text-primary-foreground" />
               </div>
               <span className="text-xl font-bold text-glow" style={{ fontFamily: 'Orbitron, monospace' }}>
-                GameGear
+                Cyvanta
               </span>
             </div>
             <p className="text-muted-foreground text-sm">
@@ -108,7 +108,7 @@ const Footer = () => {
 
         <div className="border-t border-border/50 mt-8 pt-8 text-center">
           <p className="text-muted-foreground text-sm">
-            © {currentYear} GameZone Elite. All rights reserved.
+            © {currentYear} Cyvantatech. All rights reserved.
           </p>
         </div>
       </div>
