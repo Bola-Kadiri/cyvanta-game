@@ -26,7 +26,7 @@ const Navbar = () => {
               <Gamepad2 className="h-6 w-6 text-primary-foreground" />
             </div>
             <span className="text-xl font-bold text-glow" style={{ fontFamily: 'Orbitron, monospace' }}>
-              GameGear
+              Cyvanta
             </span>
           </Link>
 
