@@ -83,7 +83,7 @@ const Footer = () => {
             <h3 className="font-semibold text-foreground mb-4">Connect</h3>
             <div className="space-y-4">
               <a
-                href="https://wa.me/2349151722634"
+                href="https://wa.me/2349036957619"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-gaming-outline inline-block text-sm px-4 py-2 rounded-md"

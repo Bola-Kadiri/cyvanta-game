@@ -36,8 +36,8 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Phone",
-      info: "+234 915 172 2634",
-      action: "tel:+2349151722634"
+      info: "+2349036957619",
+      action: "tel:+2349036957619"
     },
     {
       icon: Mail,
@@ -180,7 +180,7 @@ const Contact = () => {
                     variant="outline" 
                     className="bg-white text-secondary hover:bg-white/90"
                   >
-                    <a href="https://wa.me/2349151722634" target="_blank" rel="noopener noreferrer">
+                    <a href="https://wa.me/2349036957619" target="_blank" rel="noopener noreferrer">
                       Start WhatsApp Chat
                     </a>
                   </Button>

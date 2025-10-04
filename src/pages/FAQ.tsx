@@ -114,7 +114,7 @@ const FAQ = () => {
                   variant="outline" 
                   className="bg-white text-primary hover:bg-white/90"
                 >
-                  <a href="https://wa.me/2349151722634" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/2349036957619" target="_blank" rel="noopener noreferrer">
                     WhatsApp Support
                   </a>
                 </Button>

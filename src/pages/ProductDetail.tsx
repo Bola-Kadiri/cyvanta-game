@@ -156,7 +156,7 @@ const ProductDetail = () => {
                 asChild 
                 className="btn-gaming-secondary w-full"
               >
-                <a href="https://wa.me/2349151722634" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/2349036957619" target="_blank" rel="noopener noreferrer">
                   Chat with Admin on WhatsApp
                 </a>
               </Button>

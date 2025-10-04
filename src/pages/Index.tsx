@@ -184,7 +184,7 @@ const Index = () => {
             asChild 
             className="btn-gaming text-lg px-8 py-6 animate-glow-pulse"
           >
-            <a href="https://wa.me/2349151722634" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/2349036957619" target="_blank" rel="noopener noreferrer">
               Chat with Admin on WhatsApp
               <ArrowRight className="ml-2 h-5 w-5" />
             </a>
