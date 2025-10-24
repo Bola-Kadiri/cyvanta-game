@@ -108,7 +108,7 @@ const Footer = () => {
 
         <div className="border-t border-border/50 mt-8 pt-8 text-center">
           <p className="text-muted-foreground text-sm">
-            © {currentYear} Cyvantatech. All rights reserved.
+            © {currentYear} Bide Bamz. All rights reserved.
           </p>
         </div>
       </div>
