@@ -73,7 +73,7 @@ const Terms = () => {
           <Card className="card-gaming animate-slide-in">
             <CardContent className="p-8">
               <p className="text-muted-foreground text-lg leading-relaxed">
-                Welcome to GameZone Elite. These Terms and Conditions ("Terms") govern your use of our 
+                Welcome to Cyvanta Technologies. These Terms and Conditions ("Terms") govern your use of our 
                 website, products, and services. By accessing our website or making a purchase, you 
                 agree to be bound by these Terms. If you do not agree with any part of these terms, 
                 please do not use our services.
