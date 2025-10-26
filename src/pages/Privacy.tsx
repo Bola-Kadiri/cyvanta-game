@@ -5,46 +5,44 @@ const Privacy = () => {
   const sections = [
     {
       icon: Shield,
-      title: "Information We Collect",
+      title: "Ownership",
       content: [
-        "Personal information such as name, email address, and phone number when you contact us or make inquiries",
-        "Order information including shipping addresses and product preferences",
-        "Communication records from WhatsApp, email, or phone conversations",
-        "Website usage data through cookies and analytics tools",
-        "Device information and IP addresses for security purposes"
+        "All content, designs, and trademarks under Cyvanta Technologies are owned exclusively by Cyvanta Technologies Ltd."
       ]
     },
     {
       icon: Lock,
-      title: "How We Use Your Information",
+      title: "Payments & Pricing",
       content: [
-        "Process and fulfill your gaming product orders and inquiries",
-        "Provide customer support and technical assistance",
-        "Send product updates, gaming tips, and promotional offers (with your consent)",
-        "Improve our website, products, and services",
-        "Comply with legal obligations and prevent fraud"
+        "All payments must be made to verified Cyvanta Technologies accounts. Prices are subject to change based on currency fluctuation and product availability."
       ]
     },
     {
       icon: Eye,
-      title: "Information Sharing",
+      title: "Warranty & Returns",
       content: [
-        "We do not sell, trade, or rent your personal information to third parties",
-        "Information may be shared with trusted delivery partners for order fulfillment",
-        "We may share data with payment processors for secure transactions",
-        "Legal authorities may receive information if required by law",
-        "Service providers helping us operate our website may access necessary data"
+        "Customers are entitled to returns or exchanges only for defective products reported within 48 hours of purchase, with valid proof of payment."
       ]
     },
     {
       icon: UserCheck,
-      title: "Your Rights",
+      title: "Liability",
       content: [
-        "Access and review the personal information we have about you",
-        "Request corrections to any inaccurate or incomplete information",
-        "Request deletion of your personal data (subject to legal requirements)",
-        "Opt-out of marketing communications at any time",
-        "Withdraw consent for data processing where applicable"
+        "Cyvanta Technologies will not be held liable for product misuse or damages caused by improper installation not handled by our team."
+      ]
+    },
+     {
+      icon: UserCheck,
+      title: "Privacy",
+      content: [
+        "Customer data is kept strictly confidential and used only for service or order processing."
+      ]
+    },
+     {
+      icon: UserCheck,
+      title: "Dispute Resolution",
+      content: [
+        "Any disputes arising from transactions with Cyvanta Technologies shall be resolved under Nigerian law"
       ]
     }
   ];

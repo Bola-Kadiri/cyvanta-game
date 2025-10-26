@@ -11,44 +11,32 @@ import { HelpCircle, MessageCircle } from "lucide-react";
 const FAQ = () => {
   const faqs = [
     {
-      question: "What types of gaming products do you offer?",
-      answer: "We offer a comprehensive range of premium gaming products including headsets, keyboards, mice, monitors, chairs, webcams, and various gaming accessories. All our products are carefully curated from top gaming brands to ensure the highest quality and performance."
+      question: "What does Cyvanta Technologies do?",
+      answer: "Cyvanta Technologies is a tech and electronics brand that offers sales, installation, and support services for gaming setups, smart homes, CCTV systems, and solar solutions."
     },
     {
-      question: "Do you provide warranty on your products?",
-      answer: "Yes, all our gaming products come with manufacturer warranty. The warranty period varies by product and brand, typically ranging from 1-3 years. We also provide additional warranty protection services for premium purchases."
+      question: "Where is Cyvanta located?",
+      answer: "We’re based in Ilorin, Kwara State, Nigeria."
     },
     {
-      question: "How fast is your delivery?",
-      answer: "We offer fast and secure delivery across Nigeria. Standard delivery takes 2-5 business days within Lagos and 3-7 business days for other states. Express delivery options are available for urgent orders."
+      question: "Do you offer delivery services?",
+      answer: "Yes, we deliver nationwide. Delivery fees depend on the location and order size."
     },
     {
-      question: "Can I return a product if I'm not satisfied?",
-      answer: "Yes, we have a 30-day return policy for unused products in original packaging. If you're not completely satisfied with your purchase, you can return it for a full refund or exchange."
+      question: "Do you offer product warranty?",
+      answer: "Yes, all products come with a manufacturer or store warranty depending on the brand."
     },
     {
-      question: "Do you offer technical support?",
-      answer: "Absolutely! Our team includes gaming experts who can provide technical support, setup assistance, and product recommendations. You can reach us via WhatsApp, email, or phone for immediate assistance."
+      question: "Can I pre-order unavailable products?",
+      answer: "Yes, pre-order is available for high-demand items. Delivery timelines will be confirmed upon order."
     },
     {
-      question: "Are your products authentic?",
-      answer: "Yes, we only sell 100% authentic products directly from authorized distributors and manufacturers. All products come with original packaging, documentation, and warranty cards."
+      question: "Do you offer installation services?",
+      answer: "Yes. We provide professional installation for CCTV, smart home devices, gaming setups, and solar systems."
     },
     {
-      question: "Do you offer bulk discounts for gaming cafes or organizations?",
-      answer: "Yes, we offer special pricing for bulk orders, gaming cafes, esports teams, and educational institutions. Contact our admin for custom quotes and bulk purchase arrangements."
-    },
-    {
-      question: "What payment methods do you accept?",
-      answer: "We accept various payment methods including bank transfers, online payments, and cash on delivery (for local orders). Contact us for specific payment arrangements."
-    },
-    {
-      question: "Can you help me build a complete gaming setup?",
-      answer: "Definitely! Our gaming experts can help you design and build a complete gaming setup based on your budget, preferences, and performance requirements. We offer consultation services and custom gaming builds."
-    },
-    {
-      question: "How can I track my order?",
-      answer: "Once your order is processed, you'll receive tracking information via WhatsApp or email. You can also contact our customer service team for real-time order updates."
+      question: "How can I contact Cyvanta Technologies?",
+      answer: "Via email at info@cyvanta.com or through our social media handles @cyvantatech"
     }
   ];
 
